@@ -1,0 +1,1 @@
+[{"attempts": 2, "date": "2022-03-10 13:48:27.302955", "name": "Jan", "secret number": "10", "wrong guesses": [15]}, {"attempts": 3, "date": "2022-03-10 13:47:41.711529", "name": "Jan", "secret number": "28", "wrong guesses": [17, 25]}, {"attempts": 4, "date": "2022-03-10 13:48:50.454382", "name": "Johanna", "secret number": "14", "wrong guesses": [15, 10, 13]}]
